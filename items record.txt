@@ -1,0 +1,16 @@
+Chicken-Soup 	 149 	 299
+Prawn-Soup 	 149 	 199
+Fish-Soup 	 99 	 149
+Beef-Biryani 	 149 	 249
+Burger 	 149 	 249
+Pizza 	 399 	 699
+Soft-Drink 	 29 	 49
+Milk-Shake 	 49 	 99
+Fresh-Juice 	 49 	 99
+Malt-Cake 	 199 	 399
+Fruit-Cake 	 249 	 449
+Ice-cream 	 49 	 99
+Deal1 	 595 	 799
+Deal2 	 632 	 849
+Deal3 	 895 	 1499
+Today's-Special
